@@ -1,0 +1,8 @@
+{
+  "volo": {
+    "dependencies": {
+      "require-is": "guybedford/require-is",
+      "json2": "https://raw.github.com/douglascrockford/JSON-js/master/json2.js"
+    }
+  }
+}
