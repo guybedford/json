@@ -1,3 +1,3 @@
-define(['is!~./json-parse?[json2]'], function(parseJSON) {
-  return parseJSON || JSON.parse;
+define(['is!~./json-detect?[json2]'], function(_JSON) {
+  return _JSON || JSON;
 });
