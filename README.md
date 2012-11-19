@@ -11,8 +11,8 @@ Usage:
 
 ```javascript
 
-  require(['json/json'], function(parseJSON) {
-    var obj = parseJSON('{ json: "object" }'); 
+  require(['json/json'], function(JSON) {
+    var obj = JSON.parse('{ json: "object" }'); 
   });
  
 ```
