@@ -1,5 +1,6 @@
 {
   "volo": {
+    "type": "directory",
     "dependencies": {
       "require-is": "guybedford/require-is",
       "json2": "douglascrockford/JSON-js"
