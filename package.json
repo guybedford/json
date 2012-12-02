@@ -2,8 +2,8 @@
   "volo": {
     "type": "directory",
     "dependencies": {
-      "require-is": "guybedford/require-is",
-      "json2": "douglascrockford/JSON-js"
+      "require-is": "guybedford/require-is/master",
+      "json2": "https://raw.github.com/douglascrockford/JSON-js/master/json2.js"
     }
   }
 }
