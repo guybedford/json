@@ -1,0 +1,7 @@
+{
+  "name": "json",
+  "version": "0.0.1",
+  "dependencies": {
+    "is": "guybedford/require-is#0.0.1"
+  }
+}
